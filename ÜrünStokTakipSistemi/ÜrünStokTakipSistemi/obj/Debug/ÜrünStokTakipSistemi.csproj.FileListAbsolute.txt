@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\görsel ödevi\ÜrünStokTakipSistemi\ÜrünStokTakipSistemi\bin\Debug\ÜrünStokTakipSistemi.exe.config
+C:\Users\HP\Desktop\görsel ödevi\ÜrünStokTakipSistemi\ÜrünStokTakipSistemi\bin\Debug\ÜrünStokTakipSistemi.exe
+C:\Users\HP\Desktop\görsel ödevi\ÜrünStokTakipSistemi\ÜrünStokTakipSistemi\bin\Debug\ÜrünStokTakipSistemi.pdb
+C:\Users\HP\Desktop\görsel ödevi\ÜrünStokTakipSistemi\ÜrünStokTakipSistemi\obj\Debug\ÜrünStokTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\görsel ödevi\ÜrünStokTakipSistemi\ÜrünStokTakipSistemi\obj\Debug\ÜrünStokTakipSistemi.Form1.resources
+C:\Users\HP\Desktop\görsel ödevi\ÜrünStokTakipSistemi\ÜrünStokTakipSistemi\obj\Debug\ÜrünStokTakipSistemi.Properties.Resources.resources
+C:\Users\HP\Desktop\görsel ödevi\ÜrünStokTakipSistemi\ÜrünStokTakipSistemi\obj\Debug\ÜrünStokTakipSistemi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\görsel ödevi\ÜrünStokTakipSistemi\ÜrünStokTakipSistemi\obj\Debug\ÜrünStokTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\görsel ödevi\ÜrünStokTakipSistemi\ÜrünStokTakipSistemi\obj\Debug\ÜrünStokTakipSistemi.exe
+C:\Users\HP\Desktop\görsel ödevi\ÜrünStokTakipSistemi\ÜrünStokTakipSistemi\obj\Debug\ÜrünStokTakipSistemi.pdb
+C:\Users\HP\Desktop\görsel ödevi\ÜrünStokTakipSistemi\ÜrünStokTakipSistemi\obj\Debug\ÜrünStokTakipSistemi.FrmCalısanEkleCıkar.resources
+C:\Users\HP\Desktop\görsel ödevi\ÜrünStokTakipSistemi\ÜrünStokTakipSistemi\obj\Debug\ÜrünStokTakipSistemi.FrmYöneticiGiris.resources
+C:\Users\HP\Desktop\görsel ödevi\ÜrünStokTakipSistemi\ÜrünStokTakipSistemi\obj\Debug\ÜrünStokTakipSistemi.FrmCE.resources
+C:\Users\HP\Desktop\görsel ödevi\ÜrünStokTakipSistemi\ÜrünStokTakipSistemi\obj\Debug\ÜrünStokTakipSistemi.FrmCalısanCıkarma.resources
+C:\Users\HP\Desktop\görsel ödevi\ÜrünStokTakipSistemi\ÜrünStokTakipSistemi\obj\Debug\ÜrünStokTakipSistemi.FrmCalısanGirisEkranı.resources
+C:\Users\HP\Desktop\görsel ödevi\ÜrünStokTakipSistemi\ÜrünStokTakipSistemi\obj\Debug\ÜrünStokTakipSistemi.FrmUrunEkrani.resources
